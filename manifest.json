@@ -1,0 +1,40 @@
+﻿{
+  "format_version": 2,
+  "header": {
+    "name": "Lumina Visuals – Vibrant Shader",
+    "description": "A beautiful visual upgrade adding realistic lighting, soft shadows, and vibrant colors to Minecraft Bedrock.",
+    "uuid": "13101593-00e6-49ae-af4d-fb1452cda7c2",
+    "version": [1, 1, 0],
+    "min_engine_version": [1, 21, 90]
+  },
+  "modules": [
+    {
+      "description": "Lumina Visuals Module",
+      "type": "resources",
+      "uuid": "d621179d-d55d-42ed-9a9e-956a6932bc2a",
+      "version": [1, 1, 0]
+    }
+  ],
+  "capabilities": [
+    "pbr"
+  ],
+  "subpacks": [
+    {
+      "folder_name": "2",
+      "name": "Vanilla Clouds + Fast Better Grass",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "1",
+      "name": "Fancy Clouds",
+      "memory_tier": 2
+    },
+    {
+      "folder_name": "0",
+      "name": "Vanilla Clouds + Default Grass",
+      "memory_tier": 2
+    }
+
+  ]
+}
+

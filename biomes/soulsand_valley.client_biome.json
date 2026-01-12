@@ -1,0 +1,20 @@
+
+{
+  "format_version": "1.21.70",
+  "minecraft:client_biome": {
+    "description": {
+      "identifier": "soul_sand_valley"
+    },
+    "components": {
+      "minecraft:fog_appearance": {
+        "fog_identifier": "va:nether_soul_fog"
+      },
+      "minecraft:sky_color": {
+        "sky_color": "#6f7c85"
+      },
+      "minecraft:water_appearance": {
+        "surface_color": "#4a5a60"
+      }
+    }
+  }
+}
