@@ -1,18 +1,18 @@
 ﻿{
   "format_version": 2,
   "header": {
-    "name": "Lumina Visuals – Vibrant Shader",
+    "name": "Lumina Visuals v1.2",
     "description": "A beautiful visual upgrade adding realistic lighting, soft shadows, and vibrant colors to Minecraft Bedrock.",
-    "uuid": "13101593-00e6-49ae-af4d-fb1452cda7c2",
-    "version": [1, 1, 0],
+    "uuid": "1b5f4422-5d6c-4095-860a-eb047f02046d",
+    "version": [1, 2, 0],
     "min_engine_version": [1, 21, 90]
   },
   "modules": [
     {
       "description": "Lumina Visuals Module",
       "type": "resources",
-      "uuid": "d621179d-d55d-42ed-9a9e-956a6932bc2a",
-      "version": [1, 1, 0]
+      "uuid": "bfc47f48-be85-455a-8ac6-11a1924213e8",
+      "version": [1, 2, 0]
     }
   ],
   "capabilities": [
