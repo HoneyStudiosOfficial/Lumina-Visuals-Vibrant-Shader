@@ -1,8 +1,0 @@
-﻿{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "iron_pickaxe",
-    "metalness_emissive_roughness": "iron_pickaxe_mer"
-  }
-}
-
